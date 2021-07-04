@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "765247704230",
+    "project_id": "v-ray-7f055",
+    "storage_bucket": "v-ray-7f055.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765247704230:android:a4505d5659aa1995deb867",
+        "android_client_info": {
+          "package_name": "com.arya.ray"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765247704230-ccsufht038n0rb4alnh8rl9j6kkoft87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCg1oQiPLJbcWl9peQpMnt5TeziqW8Xeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765247704230-ccsufht038n0rb4alnh8rl9j6kkoft87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
