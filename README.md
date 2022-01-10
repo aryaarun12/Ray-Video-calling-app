@@ -11,4 +11,4 @@ This is a simple android based video calling app using jitsi SDK
 + Share the code with your friends to invite them to the call 
 
 
-+ Hope you enjoy!
+Hope you enjoy!
